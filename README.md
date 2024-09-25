@@ -1,4 +1,3 @@
-This is the official submission for Google Girl Hackathon 2024 by Leshya Jain <br/>
 To run the following application, first clone this repository and then run the following commands to install the necessary packages in your terminal 
 ```
 npm i express
